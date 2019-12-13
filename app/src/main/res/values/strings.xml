@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CS411_HW3</string>
+    <string name="title_activity_update_delete">UpdateDeleteActivity</string>
+    <string name="title_activity_get_all_users">GetAllUsersActivity</string>
+</resources>
